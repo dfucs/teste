@@ -11,8 +11,8 @@ Inclua referência para imagem gerada pelo Oracle Developer da tabela analisada 
 ```![Diagrama Relacionamento Tabela ts.Lorem_ipsum](url)```
 
 ## Layout
-Nome do Campo|Tipo| Obrigatório (S|N)|Valor Padrão| Comentário
--------------|----|------------------|------------|-----------
+Nome do Campo | Tipo | Obrigatório (S|N) | Valor Padrão | Comentário
+------------- | ---- | ------------------| ------------ |-----------
 adipiscing|Int|N|-|Lorem ipsum dolor sit amet
 
 ### Índices
