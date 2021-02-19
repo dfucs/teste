@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ## Diagrama de Relacionamento
-Inclua referência para imagem com a imagem da tabela analisada e os relacionamentos diretos usando a sintaxe: ![Diagrama Relacionamento Tabela ts.Lorem_ipsum](url)
+Inclua referência para imagem com a imagem da tabela analisada e os relacionamentos diretos usando a sintaxe: ```![Diagrama Relacionamento Tabela ts.Lorem_ipsum](url)```
 
 
 
