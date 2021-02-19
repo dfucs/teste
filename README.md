@@ -3,8 +3,9 @@
 
 
 ## Diagrama de Relacionamento
-http://github.com - automatic!
-[GitHub](http://github.com)
+![GitHub Logo](/youtube.svg)
+Format: ![Alt Text](url)
+
 
 
 ## Layout
