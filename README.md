@@ -3,8 +3,8 @@
 
 
 ## Diagrama de Relacionamento
-![GitHub Logo](/images/modules/site/icons/footer/youtube.svg)
-Format: ![Alt Text](url)
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
 ## Layout
