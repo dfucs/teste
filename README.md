@@ -18,22 +18,78 @@ adipiscing|Int|N|-|Lorem ipsum dolor sit amet
 
 
 ### Índices
+lista dos índices presentes na tabela
 
 ### Foreign Keys
+lista das chaves estrangeiras presentes na tabela
 
 # Outros objetos diretamente relacionados
 ## Views
+Listagem das views que usam a tabela
 
 ## Stored Procedures
+Listagem das stored procedures que leem ou escrevem na tabela
+
+### sp_lorem_ipsum
+#### Descrição
+
+#### Parâmetros de entrada e saída
+
+#### Número de Linhas
+
 
 ## Functions
+Listagem das functions  que leem ou escrevem na tabela
+
+### sp_lorem_ipsum
+#### Descrição
+
+#### Parâmetros de entrada e saída
+
+#### Número de Linhas
+
 
 ## Triggers
+Listagem dos triggers que leem ou escrevem na tabela
+
+### sp_lorem_ipsum
+#### Descrição
+
+#### Parâmetros de acionamento
+
+#### Número de Linhas
+
+
 
 ## Transactions
+Listagem das transactions que leem ou escrevem na tabela
+
+### sp_lorem_ipsum
+#### Descrição
+
+#### Parâmetros de entrada e saída
+
+#### Número de Linhas
+
 
 ## Packages
+Listagem dos packages que leem ou escrevem na tabela
 
-## Types
+### sp_lorem_ipsum
+#### Descrição
+
+#### Parâmetros de entrada e saída
+
+#### Número de Linhas
+
+## Types (verificar se são usados)
+Listagem dos types que leem ou escrevem na tabela
+
+### sp_lorem_ipsum
+#### Descrição
+
+#### Parâmetros de entrada e saída
+
+#### Número de Linhas
 
 
