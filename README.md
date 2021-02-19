@@ -3,7 +3,7 @@
 
 
 ## Diagrama de Relacionamento
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/modules/site/icons/footer/youtube.svg)
 Format: ![Alt Text](url)
 
 
